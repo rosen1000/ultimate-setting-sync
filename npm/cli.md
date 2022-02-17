@@ -1,5 +1,9 @@
 # NPM great cli tools
 
+- [NPM great cli tools](#npm-great-cli-tools)
+  - [pnpm](#pnpm)
+  - [degit](#degit)
+
 ## [pnpm](https://npmjs.com/package/pnpm)
 
 Fast and Efficient replacement for npm
